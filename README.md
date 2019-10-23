@@ -1,5 +1,5 @@
 # AI, Robot
-The goal of this project is to try to implement Isaac Asimov’s 3 Laws of robotics within Unity. The area of AI and ethics is a hot topic recently and there is still uncertainty about the safety of putting human life in the hands of AI. Asimov’s 3 laws are the basis for safe AI 
+The goal of this project is to try to implement Isaac Asimov’s 3 Laws of robotics within Unity. The area of AI and ethics is a hot topic recently and there is still uncertainty about the safety of putting human life in the hands of AI. Asimov’s 3 laws are a basis for safe AI 
 
 The three laws are:
 
